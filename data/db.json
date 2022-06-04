@@ -1,0 +1,56 @@
+{
+  "bloglar": [
+    {
+      "id": "1",
+      "baslik": "Autopilot Software",
+      "kategoriler": [
+        "Software",
+        "Content Management"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt.",
+      "sure": "5 minutes"
+    },
+    {
+      "id": "2",
+      "baslik": "Tesla's Rapid Growth",
+      "kategoriler": [
+        "Content Management"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.",
+      "sure": "15 minutes"
+    },
+    {
+      "id": "3",
+      "baslik": "Advantages of Rust and Go Languages",
+      "kategoriler": [
+        "Software",
+        "Hardware",
+        "Design"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. ",
+      "sure": "20 minutes"
+    },
+    {
+      "baslik": "The state of the getir company",
+      "kategoriler": [
+        "finance",
+        "software"
+      ],
+      "icerik": "Minutes matter. We are here to make your lives easier. Thanks to our constantly widening product range, we bring thousands of everyday items like baby diapers, chocolate, chips, beverages, shaving cream, detergent, deodorant, cat & dog food, batteries, and light bulbs to your location in minutes.",
+      "sure": "3 minute",
+      "id": "9HduBb2"
+    },
+    {
+      "baslik": "Hasan GÖKGÖZ",
+      "kategoriler": [
+        "life",
+        "balance",
+        "earth",
+        "nature"
+      ],
+      "icerik": "Try to enjoy life :)",
+      "sure": "2 minute",
+      "id": "a8pwYjh"
+    }
+  ]
+}

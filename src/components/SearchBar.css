@@ -1,0 +1,21 @@
+.searchbar form {
+  display: flex;
+  align-items: center;
+}
+.searchbar input {
+  margin: 0 15px;
+}
+.ara {
+  color: #fff;
+  margin-left: 40px;
+  padding: 8px;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  background-color: transparent;
+  cursor: pointer;
+  margin-left: 0;
+}
+.ara:hover {
+  background: #fff;
+  color: #786fa6;
+}
